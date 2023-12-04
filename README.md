@@ -47,6 +47,7 @@ Información para ponerse en contacto con el equipo de soporte técnico.
 Agradecimientos y Créditos
 Reconocimientos a terceros, bibliotecas, o recursos utilizados en el desarrollo de la aplicación.
 
-Recuerda ser claro y detallado en cada sección. Diagramas, ejemplos y capturas de pantalla pueden ser de gran ayuda para explicar el funcionamiento de la aplicación. ¡Buena suerte con tu documentación! Si necesitas ayuda con un área específica, estaré aquí para asistirte. 
+Recuerda ser claro y detallado en cada sección. Diagramas, ejemplos y capturas de pantalla pueden ser de gran ayuda para explicar el funcionamiento de la aplicación. ¡Buena suerte con tu documentación! Si necesitas ayuda con un área específica, estaré aquí para asistirte.
+
 ![Descripción de la imagen](images/pantalla_principal.png)
 

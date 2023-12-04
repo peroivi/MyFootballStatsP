@@ -49,5 +49,7 @@ Reconocimientos a terceros, bibliotecas, o recursos utilizados en el desarrollo 
 
 Recuerda ser claro y detallado en cada sección. Diagramas, ejemplos y capturas de pantalla pueden ser de gran ayuda para explicar el funcionamiento de la aplicación. ¡Buena suerte con tu documentación! Si necesitas ayuda con un área específica, estaré aquí para asistirte.
 
-![Descripción de la imagen](images/pantalla_principal.png)
+<p align="center">
+  <img src="images/pantalla_principal.png" alt="Descripción de la imagen" width="300">
+</p>
 

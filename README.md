@@ -53,3 +53,7 @@ Recuerda ser claro y detallado en cada sección. Diagramas, ejemplos y capturas 
   <img src="images/pantalla_principal.png" alt="Descripción de la imagen" width="300">
 </p>
 
+<p align="center">
+  <img src="images/pantalla_players.png" alt="Descripción de la imagen" width="300">
+</p>
+
